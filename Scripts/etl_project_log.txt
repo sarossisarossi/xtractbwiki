@@ -1,0 +1,8 @@
+Initiated Log:
+Constants Loaded:
+Request and get html data ok:
+Get all Rows element as rows:
+Iterate ok for all row in Rows and record required data in a dataframe:
+Export data from dataframe to a json file:
+load data into a database:
+checked data ok in db:
